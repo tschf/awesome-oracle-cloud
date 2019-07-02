@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for learning and using Oracle Cloud.
 
-## Training
+## Education
 
 * [OCI Foundation](https://www.youtube.com/playlist?list=PLKCk3OyNwIzu_Eu3JcqXs7zyKSSd-lbq1) (YouTube playlist)
 * [OCI Level 100 Training](https://www.youtube.com/playlist?list=PLKCk3OyNwIzuBQ13lwsZpqO4__rLrO1eA) (YouTube playlist)
