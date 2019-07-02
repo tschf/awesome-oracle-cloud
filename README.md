@@ -11,7 +11,8 @@ A curated list of awesome resources for learning and using Oracle Cloud.
 ## Blogs
 
 * [Oracle Cloud blog](https://blogs.oracle.com/developers/cloud-dev)
-* [That Finish Guy](https://www.thatfinnishguy.blog/)
+* [resursive.codes](http://recursive.codes/) - Blog by [Todd Sharp](https://twitter.com/recursivecodes), Developer Evangelist for Oracle focusing on Cloud technologies,
+* [That Finish Guy](https://www.thatfinnishguy.blog/) - Blog by Simo Vilmunen
 
 ## People
 
