@@ -1,4 +1,4 @@
-# Awesome Oracle Cloud [![Awesome][awesome-badge]][awesome-link]
+# Awesome Oracle Cloud [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome resources for learning and using Oracle Cloud.
 
