@@ -11,6 +11,10 @@ Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com
   * [Blogs](#Blogs)
   * [People](#People)
   * [Presentations](#Presentations)
+* [About This Document](#about-this-document)
+  * [License](#license)
+  * [Disclaimer](#disclaimer)
+  * [Contributing](#contributing)
 
 ## General
 
@@ -35,3 +39,19 @@ Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com
 ### Presentations
 
 * [Oracle Cloud Strategy](https://www.slideshare.net/oracle/oracle-cloud-strategy-42853467)
+
+## About this document
+
+### License
+
+[![Creative Commons License](https://licensebuttons.net/p/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+This work is licensed under a [Creative Commons 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
+
+### Disclaimer
+
+This list was not started, endorsed and is not maintained by Oracle Corporation.
+
+### Contributing
+
+If you have or know of some useful resources surrounding Oracle Cloud, please go ahead and add it in via a Pull Request.
