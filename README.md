@@ -11,6 +11,7 @@ Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com
   * [Blogs](#Blogs)
   * [People](#People)
   * [Presentations](#Presentations)
+  * [Articles](#articles)
 * [IaaS](#iaas)
 * [PaaS](#paas)
 * [SaaS](#saas)
@@ -42,6 +43,10 @@ Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com
 ### Presentations
 
 * [Oracle Cloud Strategy](https://www.slideshare.net/oracle/oracle-cloud-strategy-42853467)
+
+### Articles 
+
+* [Oracle Cloud Infrastructure command line client and object storage](https://apextips.blogspot.com/2019/03/oracle-cloud-infrastructure-command.html) - Overview of setting up the OCI command line client and example usage against Oracle Cloud storage buckets.
 
 ## IaaS
 
