@@ -11,6 +11,9 @@ Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com
   * [Blogs](#Blogs)
   * [People](#People)
   * [Presentations](#Presentations)
+* [IaaS](#iaas)
+* [PaaS](#paas)
+* [SaaS](#saas)
 * [About This Document](#about-this-document)
   * [License](#license)
   * [Disclaimer](#disclaimer)
@@ -39,6 +42,24 @@ Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com
 ### Presentations
 
 * [Oracle Cloud Strategy](https://www.slideshare.net/oracle/oracle-cloud-strategy-42853467)
+
+## IaaS
+
+IaaS, or Infrastructure-as-a-Service, includes any infrastructure from (database) servers to storage to networking.
+
+TODO: add subheadings with resources as they become available.
+
+## PaaS
+
+PaaS, or Platform-as-a-Service, more of the middle tier where you don't need to be concerned with the infrastructure backing it.
+
+TODO: add subheadings with resources as they become available.
+
+## SaaS
+
+SaaS, or Software-as-a-Service, allows using software on a subscription basis.
+
+TODO: add subheadings with resources as they become available.
 
 ## About this document
 
