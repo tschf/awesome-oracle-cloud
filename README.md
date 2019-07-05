@@ -26,6 +26,8 @@ Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com
 * [OCI Foundation](https://www.youtube.com/playlist?list=PLKCk3OyNwIzu_Eu3JcqXs7zyKSSd-lbq1) (YouTube playlist)
 * [OCI Level 100 Training](https://www.youtube.com/playlist?list=PLKCk3OyNwIzuBQ13lwsZpqO4__rLrO1eA) (YouTube playlist)
 * [OCI Level 200 Training](https://www.youtube.com/playlist?list=PLKCk3OyNwIzuem-VkaKeHlY1Z5O2ctQld) (YouTube playlist)
+* [1Z0-932 Study Guide](https://learn.oracle.com/education/pdf/Oracle_Cloud_Infrastructure_study_guide.pdf) \[PDF\] - Study guide for the certification OCI Architect Associate Exam
+* [1Z0-932 Practice exam](http://oukc.oracle.com/static12/opn/login/?t=checkusercookies|r=-1|c=2164389233) (OTN signin required) Practice exam for OCI Architect Associate
 
 ### Blogs
 
