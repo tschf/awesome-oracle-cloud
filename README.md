@@ -9,7 +9,6 @@ Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com
 * [General](#General)
   * [Education](#Education)
   * [Blogs](#Blogs)
-  * [People](#People)
   * [Presentations](#Presentations)
   * [Articles](#articles)
 * [IaaS](#iaas)
@@ -33,12 +32,6 @@ Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com
 * [Oracle Cloud blog](https://blogs.oracle.com/developers/cloud-dev)
 * [resursive.codes](http://recursive.codes/) - Blog by [Todd Sharp](https://twitter.com/recursivecodes), Developer Evangelist for Oracle focusing on Cloud technologies,
 * [That Finish Guy](https://www.thatfinnishguy.blog/) - Blog by Simo Vilmunen
-
-### People
-
-* [Adrian Png](https://twitter.com/fuzziebrain) (Twitter) - APEX Developer that is also active in the Oracle Cloud space. Creator of the OCI challenge coin.
-* [Simo Vilmunen](https://twitter.com/svilmune) (Twitter) - Active in the Oracle Cloud space, Ace Associate, and creator of a weekly Oracle OCI newsletter.
-* [Shaoyi Zhang](https://github.com/ShaoyiZhang) (GitHub) - Software Engineer at Oracle Database Cloud APEX team.
 
 ### Presentations
 
