@@ -35,7 +35,7 @@ Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com
 
 ### Presentations
 
-* [Oracle Cloud Strategy](https://www.slideshare.net/oracle/oracle-cloud-strategy-42853467)
+* [Oracle Cloud Strategy](https://www.slideshare.net/oracle/oracle-cloud-strategy-42853467) (2014)
 
 ### Articles 
 
