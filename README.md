@@ -21,6 +21,8 @@ Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com
 
 ## General
 
+* [OCI User Guide](https://docs.cloud.oracle.com/iaas/pdf/ug/OCI_User_Guide.pdf) \[PDF\]
+
 ### Education
 
 * [OCI Foundation](https://www.youtube.com/playlist?list=PLKCk3OyNwIzu_Eu3JcqXs7zyKSSd-lbq1) (YouTube playlist)
