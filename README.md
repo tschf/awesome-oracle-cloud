@@ -50,6 +50,10 @@ Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com
 
 IaaS, or Infrastructure-as-a-Service, includes any infrastructure from (database) servers to storage to networking.
 
+### IAM
+
+* [Common policies](https://docs.cloud.oracle.com/iaas/Content/Identity/Concepts/commonpolicies.htm)
+
 ## PaaS
 
 PaaS, or Platform-as-a-Service, more of the middle tier where you don't need to be concerned with the infrastructure backing it.
