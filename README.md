@@ -54,6 +54,11 @@ IaaS, or Infrastructure-as-a-Service, includes any infrastructure from (database
 
 * [Common policies](https://docs.cloud.oracle.com/iaas/Content/Identity/Concepts/commonpolicies.htm)
 
+### NoSQL
+
+https://docs.oracle.com/en/cloud/paas/nosql-cloud/csnsd/quick-start-tutorials.html
+https://docs.oracle.com/en/cloud/paas/nosql-cloud/gsans/index.html#CreateaUserinOracleNoSQLDatabaseCloudService
+
 ## PaaS
 
 PaaS, or Platform-as-a-Service, more of the middle tier where you don't need to be concerned with the infrastructure backing it.
