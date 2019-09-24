@@ -50,6 +50,12 @@ Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com
 
 IaaS, or Infrastructure-as-a-Service, includes any infrastructure from (database) servers to storage to networking.
 
+### Certifications
+
+* [Oracle Cloud Infrastructure 2018 Architect Associate | 1Z0-932](https://education.oracle.com/oracle-cloud-infrastructure-2018-certified-architect-associate/trackp_538)
+* [Oracle Cloud Infrastructure 2019 Architect Professional | 1Z0-997](https://education.oracle.com/oracle-cloud-infrastructure-2019-architect-professional/pexam_1Z0-997)
+* [Oracle Cloud Infrastructure 2019 Cloud Operations Associate | 1Z0-1067](https://education.oracle.com/oracle-cloud-infrastructure-2019-cloud-operations-associate/pexam_1Z0-1067)
+
 ### IAM
 
 * [Common policies](https://docs.cloud.oracle.com/iaas/Content/Identity/Concepts/commonpolicies.htm)
@@ -57,6 +63,18 @@ IaaS, or Infrastructure-as-a-Service, includes any infrastructure from (database
 ## PaaS
 
 PaaS, or Platform-as-a-Service, more of the middle tier where you don't need to be concerned with the infrastructure backing it.
+
+### Certifications
+
+#### Database Paths
+
+* Oracle Database Cloud Administrator Certified Associate
+* Oracle Database Cloud Administrator Certified Professional
+* Oracle Database Cloud Service Operations Certified Associate
+* Oracle Database Platform Data Management 2018 Certified ASsociate
+* Oracle Database Cloud Service 2019 Operations Certified Associate
+* Oracle Cloud Platform Data management 2019 Certified Associate
+
 
 ## SaaS
 
