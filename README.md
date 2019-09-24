@@ -32,9 +32,13 @@ Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com
 * [OCI Level 100 Training](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvn8dpgrIKNdBOHT7AoMZlw) (YouTube playlist) - much the same as OCI Foundation, except it includes additional videos/topics
 * [OCI Level 200 Training](https://www.youtube.com/playlist?list=PLKCk3OyNwIzuBQ13lwsZpqO4__rLrO1eA) (YouTube playlist)
 * [OCI Level 300 Training](https://www.youtube.com/playlist?list=PLKCk3OyNwIzuem-VkaKeHlY1Z5O2ctQld) (YouTube playlist)
+* [OCI Level 300 Exadata Cloud Service Overview slides] (https://cloud.oracle.com/iaas/training/slides/ExaCS_overview.pdf)
+* [OCI Level 300 Exadata Cloud Service Backup and Recovery slides] (https://cloud.oracle.com/iaas/training/slides/ExaCS-Backup_Recovery.pdf)
+* [OCI Level 300 Exadata Cloud Service Patching using API slides] (https://cloud.oracle.com/iaas/training/slides/ExaCS_Patching.pdf)
+* [OCI Level 300 Exadata Cloud Service Rest API & CLI slides] (https://cloud.oracle.com/iaas/training/slides/ExaCS-API-CLI.pdf
 * [1Z0-932 Study Guide](https://learn.oracle.com/education/pdf/Oracle_Cloud_Infrastructure_study_guide.pdf) \[PDF\] - Study guide for the certification OCI Architect Associate Exam
 * [1Z0-932 Practice exam](http://oukc.oracle.com/static12/opn/login/?t=checkusercookies|r=-1|c=2164389233) (OTN signin required) Practice exam for OCI Architect Associate
-* [OCI Exadata Advanced Level 300 Training](https://cloud.oracle.com/en_US/iaas/training/level-300/exadata) - Included also powerpoint presentations with examples of using OCI Exadata tools
+
 
 ### Blogs
 
