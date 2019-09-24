@@ -12,6 +12,9 @@ Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com
   * [Presentations](#Presentations)
   * [Articles](#articles)
 * [IaaS](#iaas)
+  * [Certifications](#certifications)
+  * [IAM](#iam)
+  * [Whitepapers](#whitepapers)
 * [PaaS](#paas)
 * [SaaS](#saas)
 * [About This Document](#about-this-document)
@@ -59,6 +62,10 @@ IaaS, or Infrastructure-as-a-Service, includes any infrastructure from (database
 ### IAM
 
 * [Common policies](https://docs.cloud.oracle.com/iaas/Content/Identity/Concepts/commonpolicies.htm)
+
+### Whitepapers
+
+* [Building Highly Available Applications in a Region with One Availability Domain (PDF)](https://docs.cloud.oracle.com/iaas/Content/Resources/Assets/whitepapers/building-ha-apps-in-one-availability-domain.pdf)
 
 ## PaaS
 
