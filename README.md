@@ -71,7 +71,7 @@ IaaS, or Infrastructure-as-a-Service, includes any infrastructure from (database
 
 ### Whitepapers
 
-* [Building Highly Available Applications in a Region with One Availability Domain (PDF)](https://docs.cloud.oracle.com/iaas/Content/Resources/Assets/whitepapers/building-ha-apps-in-one-availability-domain.pdf)
+* [Building Highly Available Applications in a Region with One Availability Domain](https://docs.cloud.oracle.com/iaas/Content/Resources/Assets/whitepapers/building-ha-apps-in-one-availability-domain.pdf) \[PDF\]
 
 ## PaaS
 
