@@ -49,6 +49,7 @@ Oracle Cloud offers a [Free Tier](https://oracle.com/cloud/free) account that co
 ### Presentations
 
 * [Oracle Cloud Strategy](https://www.slideshare.net/oracle/oracle-cloud-strategy-42853467) (2014)
+* [APEX and Autonomous](https://www.slideshare.net/MichaelHichwa/apex-and-oracle-apex-oracle-autonomous-database-always-free-oracle-cloud-services)
 
 ### Articles 
 
