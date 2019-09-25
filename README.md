@@ -1,8 +1,8 @@
 # Awesome Oracle Cloud [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources for learning and using [Oracle Cloud](https://cloud.oracle.com/home).
+A curated list of awesome resources for learning and using [Oracle Cloud](https://cloud.oracle.com).
 
-Oracle offers $300 credit to [get started](https://myservices.us.oraclecloud.com/mycloud/signup) for use within the next 30 days if you'd like to get started.
+Oracle Cloud offers a [Free Tier](https://oracle.com/cloud/free) account that comes with Always Free resources and US$300 credit to use within 30 days on all other services. 
 
 ## Table of Contents
 
