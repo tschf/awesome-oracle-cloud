@@ -7,10 +7,8 @@ Oracle Cloud offers a [Free Tier](https://oracle.com/cloud/free) account that co
 ## Table of Contents
 
 * [General](#General)
-  * [Education](#Education)
   * [Blogs](#Blogs)
   * [Presentations](#Presentations)
-  * [Articles](#articles)
 * [IaaS](#iaas)
   * [Certifications](#certifications)
   * [IAM](#iam)
@@ -24,21 +22,14 @@ Oracle Cloud offers a [Free Tier](https://oracle.com/cloud/free) account that co
 
 ## General
 
-* [OCI User Guide](https://docs.cloud.oracle.com/iaas/pdf/ug/OCI_User_Guide.pdf) \[PDF\]
+### Presentations
 
-### Education
-
-* [OCI Foundation](https://www.youtube.com/playlist?list=PLKCk3OyNwIzu_Eu3JcqXs7zyKSSd-lbq1) (YouTube playlist)
-* [OCI Level 100 Training](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvn8dpgrIKNdBOHT7AoMZlw) (YouTube playlist) - much the same as OCI Foundation, except it includes additional videos/topics
-* [OCI Level 200 Training](https://www.youtube.com/playlist?list=PLKCk3OyNwIzuBQ13lwsZpqO4__rLrO1eA) (YouTube playlist)
-* [OCI Level 300 Training](https://www.youtube.com/playlist?list=PLKCk3OyNwIzuem-VkaKeHlY1Z5O2ctQld) (YouTube playlist)
-* [OCI Level 300 Exadata Cloud Service Overview](https://cloud.oracle.com/iaas/training/slides/ExaCS_overview.pdf) \[PDF\] - Slidedeck
-* [OCI Level 300 Exadata Cloud Service Backup and Recovery](https://cloud.oracle.com/iaas/training/slides/ExaCS-Backup_Recovery.pdf) \[PDF\] - Slidedeck
-* [OCI Level 300 Exadata Cloud Service Patching using API](https://cloud.oracle.com/iaas/training/slides/ExaCS_Patching.pdf) \[PDF\] - Slidedeck
-* [OCI Level 300 Exadata Cloud Service Rest API & CLI](https://cloud.oracle.com/iaas/training/slides/ExaCS-API-CLI.pdf) \[PDF\] - Slidedeck
-* [1Z0-932 Study Guide](https://learn.oracle.com/education/pdf/Oracle_Cloud_Infrastructure_study_guide.pdf) \[PDF\] - Study guide for the certification OCI Architect Associate Exam
-* [1Z0-932 Practice exam](http://oukc.oracle.com/static12/opn/login/?t=checkusercookies|r=-1|c=2164389233) (OTN signin required) Practice exam for OCI Architect Associate
-
+* [APEX and Autonomous](https://www.slideshare.net/MichaelHichwa/apex-and-oracle-apex-oracle-autonomous-database-always-free-oracle-cloud-services) (2019)
+* [OCI Level 300 Exadata Cloud Service Overview](https://cloud.oracle.com/iaas/training/slides/ExaCS_overview.pdf) \[PDF\] (2019)
+* [OCI Level 300 Exadata Cloud Service Backup and Recovery](https://cloud.oracle.com/iaas/training/slides/ExaCS-Backup_Recovery.pdf) \[PDF\] (2019)
+* [OCI Level 300 Exadata Cloud Service Patching using API](https://cloud.oracle.com/iaas/training/slides/ExaCS_Patching.pdf) \[PDF\] (2019)
+* [OCI Level 300 Exadata Cloud Service Rest API & CLI](https://cloud.oracle.com/iaas/training/slides/ExaCS-API-CLI.pdf) \[PDF\] (2019)
+* [Oracle Cloud Strategy](https://www.slideshare.net/oracle/oracle-cloud-strategy-42853467) (2014)
 
 ### Blogs
 
@@ -46,32 +37,36 @@ Oracle Cloud offers a [Free Tier](https://oracle.com/cloud/free) account that co
 * [resursive.codes](http://recursive.codes/) - Blog by [Todd Sharp](https://twitter.com/recursivecodes), Developer Evangelist for Oracle focusing on Cloud technologies,
 * [That Finish Guy](https://www.thatfinnishguy.blog/) - Blog by Simo Vilmunen
 
-### Presentations
-
-* [Oracle Cloud Strategy](https://www.slideshare.net/oracle/oracle-cloud-strategy-42853467) (2014)
-* [APEX and Autonomous](https://www.slideshare.net/MichaelHichwa/apex-and-oracle-apex-oracle-autonomous-database-always-free-oracle-cloud-services) (2019)
-
-### Articles 
-
-* [Oracle Cloud Infrastructure command line client and object storage](https://apextips.blogspot.com/2019/03/oracle-cloud-infrastructure-command.html) - Overview of setting up the OCI command line client and example usage against Oracle Cloud storage buckets.
-
 ## IaaS
 
 IaaS, or Infrastructure-as-a-Service, includes any infrastructure from (database) servers to storage to networking.
 
-### Certifications
+### General
+
+* [OCI User Guide](https://docs.cloud.oracle.com/iaas/pdf/ug/OCI_User_Guide.pdf) \[PDF\]
+
+#### Certifications
 
 * [Oracle Cloud Infrastructure 2018 Architect Associate | 1Z0-932](https://education.oracle.com/oracle-cloud-infrastructure-2018-certified-architect-associate/trackp_538)
+  * [1Z0-932 Study Guide](https://learn.oracle.com/education/pdf/Oracle_Cloud_Infrastructure_study_guide.pdf) \[PDF\] - Study guide for the certification OCI Architect Associate Exam
+  * [1Z0-932 Practice exam](http://oukc.oracle.com/static12/opn/login/?t=checkusercookies|r=-1|c=2164389233) (OTN signin required) Practice exam for OCI Architect Associate
 * [Oracle Cloud Infrastructure 2019 Architect Professional | 1Z0-997](https://education.oracle.com/oracle-cloud-infrastructure-2019-architect-professional/pexam_1Z0-997)
 * [Oracle Cloud Infrastructure 2019 Cloud Operations Associate | 1Z0-1067](https://education.oracle.com/oracle-cloud-infrastructure-2019-cloud-operations-associate/pexam_1Z0-1067)
+
+#### Videos
+
+* [OCI Foundation](https://www.youtube.com/playlist?list=PLKCk3OyNwIzu_Eu3JcqXs7zyKSSd-lbq1) (YouTube playlist)
+* [OCI Level 100 Training](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvn8dpgrIKNdBOHT7AoMZlw) (YouTube playlist) - much the same as OCI Foundation, except it includes additional videos/topics
+* [OCI Level 200 Training](https://www.youtube.com/playlist?list=PLKCk3OyNwIzuBQ13lwsZpqO4__rLrO1eA) (YouTube playlist)
+* [OCI Level 300 Training](https://www.youtube.com/playlist?list=PLKCk3OyNwIzuem-VkaKeHlY1Z5O2ctQld) (YouTube playlist)
+
+#### Whitepapers
+
+* [Building Highly Available Applications in a Region with One Availability Domain](https://docs.cloud.oracle.com/iaas/Content/Resources/Assets/whitepapers/building-ha-apps-in-one-availability-domain.pdf) \[PDF\]
 
 ### IAM
 
 * [Common policies](https://docs.cloud.oracle.com/iaas/Content/Identity/Concepts/commonpolicies.htm)
-
-### Whitepapers
-
-* [Building Highly Available Applications in a Region with One Availability Domain](https://docs.cloud.oracle.com/iaas/Content/Resources/Assets/whitepapers/building-ha-apps-in-one-availability-domain.pdf) \[PDF\]
 
 ## PaaS
 
