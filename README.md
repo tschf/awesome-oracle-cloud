@@ -4,21 +4,29 @@ A curated list of awesome resources for learning and using [Oracle Cloud](https:
 
 Oracle Cloud offers a [Free Tier](https://oracle.com/cloud/free) account that comes with Always Free resources and US$300 credit to use within 30 days on all other services. 
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-* [General](#General)
-  * [Blogs](#Blogs)
-  * [Presentations](#Presentations)
-* [IaaS](#iaas)
-  * [Certifications](#certifications)
-  * [IAM](#iam)
-  * [Whitepapers](#whitepapers)
-* [PaaS](#paas)
-* [SaaS](#saas)
-* [About This Document](#about-this-document)
-  * [License](#license)
-  * [Disclaimer](#disclaimer)
-  * [Contributing](#contributing)
+- [General](#general)
+  - [Presentations](#presentations)
+  - [Blogs](#blogs)
+- [IaaS](#iaas)
+  - [General](#general-1)
+    - [Certifications](#certifications)
+    - [Videos](#videos)
+    - [Whitepapers](#whitepapers)
+  - [IAM](#iam)
+- [PaaS](#paas)
+  - [Certifications](#certifications-1)
+    - [Database Paths](#database-paths)
+- [SaaS](#saas)
+- [About this document](#about-this-document)
+  - [License](#license)
+  - [Disclaimer](#disclaimer)
+  - [Contributing](#contributing)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## General
 
