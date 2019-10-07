@@ -49,6 +49,8 @@ Oracle Cloud offers a [Free Tier](https://oracle.com/cloud/free) account that co
 
 IaaS, or Infrastructure-as-a-Service, includes any infrastructure from (database) servers to storage to networking.
 
+* [API docs](https://docs.cloud.oracle.com/iaas/api/#/)
+
 ### General
 
 * [OCI User Guide](https://docs.cloud.oracle.com/iaas/pdf/ug/OCI_User_Guide.pdf) \[PDF\]
