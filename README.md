@@ -65,6 +65,7 @@ IaaS, or Infrastructure-as-a-Service, includes any infrastructure from (database
 
 #### Videos
 
+* [Curated OCI Video Resource](https://blogs.oracle.com/cloud-infrastructure/jumpstart-your-cloud-skills-with-free-oracle-cloud-learning-resources)
 * [OCI Foundation](https://www.youtube.com/playlist?list=PLKCk3OyNwIzu_Eu3JcqXs7zyKSSd-lbq1) (YouTube playlist)
 * [OCI Level 100 Training](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvn8dpgrIKNdBOHT7AoMZlw) (YouTube playlist) - much the same as OCI Foundation, except it includes additional videos/topics
 * [OCI Level 200 Training](https://www.youtube.com/playlist?list=PLKCk3OyNwIzuBQ13lwsZpqO4__rLrO1eA) (YouTube playlist)
