@@ -49,8 +49,6 @@ Oracle Cloud offers a [Free Tier](https://oracle.com/cloud/free) account that co
 
 IaaS, or Infrastructure-as-a-Service, includes any infrastructure from (database) servers to storage to networking.
 
-* [API docs](https://docs.cloud.oracle.com/iaas/api/#/)
-
 ### General
 
 * [OCI User Guide](https://docs.cloud.oracle.com/iaas/pdf/ug/OCI_User_Guide.pdf) \[PDF\]
@@ -62,6 +60,11 @@ IaaS, or Infrastructure-as-a-Service, includes any infrastructure from (database
   * [1Z0-932 Practice exam](http://oukc.oracle.com/static12/opn/login/?c=2164389233) (OTN signin required) Practice exam for OCI Architect Associate
 * [Oracle Cloud Infrastructure 2019 Architect Professional \| 1Z0-997](https://education.oracle.com/oracle-cloud-infrastructure-2019-architect-professional/pexam_1Z0-997)
 * [Oracle Cloud Infrastructure 2019 Cloud Operations Associate \| 1Z0-1067](https://education.oracle.com/oracle-cloud-infrastructure-2019-cloud-operations-associate/pexam_1Z0-1067)
+
+#### Development
+
+* [API docs](https://docs.cloud.oracle.com/iaas/api/#/)
+* [Event Payload](https://docs.cloud.oracle.com/en-us/iaas/Content/Events/Reference/eventenvelopereference.htm)
 
 #### Videos
 
